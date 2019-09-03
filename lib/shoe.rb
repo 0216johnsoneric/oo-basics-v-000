@@ -6,8 +6,5 @@ class Shoe
 
   end
 
-  def properties(brand = "Nike")
-    brand
-  end
 
 end
