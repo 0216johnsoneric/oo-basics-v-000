@@ -9,7 +9,7 @@ class Shoe
   end
 
   def cobble
-    puts "THis shoe is being repaired!"
+    puts "Your shoe is as good as new!"
   end
 
 end
